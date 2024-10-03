@@ -1,0 +1,8 @@
+// Declare a variable using the let keyword to allow reassignment
+let myVariable = 10; // Assign value 10 to myVariable
+
+/*
+Declare a variable using the const keyword to make it constant,
+meaning its value cannot be reassigned
+*/
+const myConstantVariable = "Hello"; // Assign value "Hello" to myConstantVariable
